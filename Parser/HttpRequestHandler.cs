@@ -16,14 +16,14 @@ namespace Parser
         {
             _httpClientProxy = httpClientProxy;
             _parser = parser;
-            Console.WriteLine("Handler created!");
+            Console.WriteLine("Handler created!");//test
         }
 
         public async Task<TResponse> Handle(HttpContent payload, HttpMethod methodName,
             string pleaseProvideFullUrlHere,
             IDictionary<string, string> additionalHeaders, CancellationToken cancellationToken)
         {
-            Console.WriteLine("Handle called!");
+            Console.WriteLine("Handle called!");//test
 
             var uriString = $"{_httpClientProxy.BaseAddress}{pleaseProvideFullUrlHere}";
 
@@ -49,9 +49,9 @@ namespace Parser
                 throw new EndOfStreamException(string.Join(",", response));
             }
 
-            var r=  _parser.ParseAsync(response);
-            Console.WriteLine("Handler completed!");
-            return r;
+            var result=  _parser.ParseAsync(response);
+            Console.WriteLine("Handler completed!");//test
+            return result;
         }
 
 
