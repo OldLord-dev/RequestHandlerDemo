@@ -60,4 +60,4 @@ demo powinno być przygotowane i wrzucone do repozytorium GitHub kandydata
 
 To już koniec "zadania domowego" :) Czy na koniec, możemy uprzejmie prosić o jedno zdanie komentarza na temat powyższych trzech zadań?
 
- ~Moim zdaniem zadanie było bardzo ciekawe oraz rozwojowe, zmuszało do myślenia jak i zweryfikowania napisanego kodu. Co najważniejsze -zrozumienia i sprawdzenia jak on działa, by móc dalej cokolwiek zrobić.
+ ~Moim zdaniem zadanie było bardzo ciekawe oraz rozwojowe, zmuszało do myślenia jak i zweryfikowania napisanego kodu. Co najważniejsze -zrozumienia i sprawdzenia jak on działa, by móc dalej kontynuować pracę w programie.
