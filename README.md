@@ -40,7 +40,7 @@ W tym zadaniu należy:
    * lepsza w używaniu
 2. zaimplementować wszystkie interfejsy, przygotować konkretną implementację klasy bazowej, itd.
 3. napisać unit testy do przykładowej klasy aby pokazać "że działa"
-  -gotowe 3 unit testy
+  **-gotowe 3 unit testy**
 
 **Uwaga:**
 
